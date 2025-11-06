@@ -58,7 +58,7 @@ The analysis was a 5 paged report.
 
   |Overview              |Schools              |Market / Filling Station | Farmland          | Factories/Industries
   |----------------------|---------------------|-------------------------|-------------------|----------------------
-  |![](Overview.png)     |![](Schools.png)     |![]()
+  |![](Overview.png)     |![](Schools.png)     |![](markets.png)
   
 
 ## Conclusion and Recommendation
