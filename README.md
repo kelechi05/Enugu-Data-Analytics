@@ -46,8 +46,19 @@ The Data was clean and there was not much transformation done. There was no gene
 ## Modelling
 There Analysis was done with 12 dataset are there was need for modelling. All automatically generated models were readjusted and correctly modeled as shown below.
 The Model was a star schema model and there was multiple one to many relationship with one many to one relationship.
-![]()
+![](model.png)
 
 ## Analysis and Visualization
+The analysis was a 5 paged report.
+- Overview
+- Schools
+- Market and Filling Staions
+- Farmland
+- Factories and Industries
+
+  |Overview              |Schools              |Market / Filling Station | Farmland          | Factories/Industries
+  |----------------------|---------------------|-------------------------|-------------------|----------------------
+  |![](Overview.png)     |![](Schools.png)     |![]()
+  
 
 ## Conclusion and Recommendation
