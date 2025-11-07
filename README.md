@@ -58,8 +58,17 @@ The analysis was a 5 paged report.
 
   |Overview              |Schools              |Market / Filling Station | Farmland          | Factories/Industries
   |----------------------|---------------------|-------------------------|-------------------|----------------------
-  |![](Overview.png)     |![](Schools.png)     |![](markets.png)         |![](farm.png)      |![](factories.png)
+  | ![](Overview.png)     |![](Schools.png)     |![](markets.png)         |![](farm.png)      |![](factories.png)
   
 
 ## Conclusion and Recommendation
+1. There is an even distribution of males anf females in the population
+2. The ratio of Primary schools, Secondary school and tertiary instituition in  state is 36:10:1
+3. Nsukka has the highest number of senior secondary schools while while Nkanu west has the least number of senior secondary schools
+4. There are no junior secondary schools in Oji-River, Isi-Uzo, Awgu and Ezeagu LGA
+5. Nkanu West is the only LGA that has primary school
+6. There are more private owed schools inthe stata as opposed to public owned schools
+7. Edem Ani ward in Nsukka LGA has the highest concentration of schools in the State
+8. Nsukka LGA has the highest markets and filling stations
+9. Enugu south has the  least markets while Uzo-uwani has the least fillilng station
 
